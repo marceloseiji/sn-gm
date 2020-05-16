@@ -1,5 +1,9 @@
+html {
+  height: 100%;
+}
+
 body {
-  background-color: #353535;
+  height: 100%;
 }
 body .title {
   color: white;
