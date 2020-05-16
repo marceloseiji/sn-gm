@@ -1,0 +1,11 @@
+body {
+  background-color: #353535;
+}
+body .title {
+  color: white;
+}
+body canvas {
+  background-color: #202020;
+}
+
+/*# sourceMappingURL=style.css.map */
